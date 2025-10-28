@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+imutils
+python-dotenv
+pytest
