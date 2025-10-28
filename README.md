@@ -1,4 +1,4 @@
-# RTSP Streaming with Face Detection and Event Recording
+# RTSP Streaming with Face Detection
 
 This project is a FastAPI + OpenCV based system for real-time RTSP streaming with face detection.
 
